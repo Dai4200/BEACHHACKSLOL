@@ -9,13 +9,13 @@ Flutter
 
 # About the project
 - Track category
-  Mental health
+  - Mental health
 
 - Inspiration
-  Sleep deprivation is a major issue, especially now with young adults more than ever. As sleep-deprived college students, we can deeply relate to this issue and wanted to come up with a measure to assess our sleep quality. 
+  - Sleep deprivation is a major issue, especially now with young adults more than ever. As sleep-deprived college students, we can deeply relate to this issue and wanted to come up with a measure to assess our sleep quality. 
   
 - What it does
-  Our application 
+  - Our application 
   
   
 - How we built it -
