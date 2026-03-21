@@ -8,10 +8,13 @@ An application that determines the quality of a user’s sleep. It prompts them 
 Flutter
 
 # About the project
-Track category - Mental health
-Inspiration - 
-What it does - 
-How we built it - 
-Challenges we ran into - 
-Accomplishments that we’re proud of - 
-What we learned - 
+- Track category - Mental health
+- Inspiration - 
+- What it does - 
+- How we built it - 
+- Challenges we ran into - 
+- Accomplishments that we’re proud of - 
+- What we learned - 
+
+# Video Demo
+
