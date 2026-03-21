@@ -1,4 +1,5 @@
-Team Members: Tony Nguyen, Diego Ascenscio
+# Project: SleepQuest. How’s your sleep?
+# Team Members: Tony Nguyen, Diego Ascenscio
 
 
 Sleep quality tracker
