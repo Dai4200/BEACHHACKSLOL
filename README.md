@@ -19,7 +19,7 @@ Flutter
   
   
 - How we built it
-  - We used Flutter to build the application. It is compatible with the web.
+  - We used Flutter to build the application. It is web-compatible.
   
 - Challenges we ran into
   - Our code kept crashing various times when trying to run the application.
@@ -28,7 +28,7 @@ Flutter
   - We are proud that our application was able to run smoothly after a series of trials and errors. 
   
 - What we learned 
-  - From our experience, we learned that we should be more prepared next time, such as coming up with ideas earlier to give us more time to work on developing the application. Additionally, having prior knowledge of the topics or at least knowing how to implement them at a basic level could have significantly made us more prepared. The issue of 
+  - From our experience, we learned that we should be more prepared next time, such as coming up with ideas earlier to give us more time to work on developing the application. Additionally, having prior knowledge of the topics or at least knowing how to implement them at a basic level could have significantly helped us. 
 
 # Video Demo
 Link to demo video: 
