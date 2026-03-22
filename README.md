@@ -1,5 +1,5 @@
 # Project: SleepQuest. How’s your sleep?
-Team Members: Tony Nguyen, Diego Ascenscio, Charlie Pham
+Team Members: Diego Ascenscio, Tony Nguyen, Charlie Pham
 
 # Elevator Pitch
 An application that determines the quality of a user’s sleep. It prompts them to answer basic questions and questions from a questionnaire. At the end, it gives them a sleep quality score and recommendations to improve their sleep quality.
@@ -28,7 +28,7 @@ Flutter
   - We are proud that our application was able to run smoothly after a series of trials and errors. 
   
 - What we learned 
-  - From our experience, we learned that we should be more prepared next time, such as coming up with ideas earlier to give us more time to work on developing the application. Additionally, having prior knowledge on the topics or how to design 
+  - From our experience, we learned that we should be more prepared next time, such as coming up with ideas earlier to give us more time to work on developing the application. Additionally, having prior knowledge of the topics or at least knowing how to implement them at a basic level could have significantly made us more prepared. The issue of 
 
 # Video Demo
 Link to demo video: 
